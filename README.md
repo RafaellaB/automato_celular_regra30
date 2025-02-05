@@ -1,0 +1,1 @@
+# automato_celular_regra30
